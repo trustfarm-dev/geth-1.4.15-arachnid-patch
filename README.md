@@ -6,6 +6,8 @@ original security alerts are here. this is built on ubuntu 14.04 .
 
 https://github.com/ethereum/go-ethereum/pull/3085
 
+OOG means OutOfGas Test codes. by Arachnid's.
+
 for windows build , you can use cross build go . setup for golang for windows, GNU make utils.
 
 for windows developer gnu tools are located and managed well here::
